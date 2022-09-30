@@ -12,7 +12,7 @@ YOLO version1 implementation using TensorFlow 2.0 (feat. Cat Detection)
 
 #### 1️⃣ I completed this project last year (2021). This Writing is to reorganize What I had done.
 
-#### 2️⃣ Moreover, 🎇 means I could not be able to upload here as its' file size is toooo big but you would be able to download them in [jupyter notebook](https://github.com/Seongwoong-sk/Yolo_V1_TF2/blob/main/Yolo_v1_cat.ipynb) where there are links. 
+#### 2️⃣ Moreover, 🎇 means I could not be able to upload here as their file size is toooo big but you would be able to download them in [jupyter notebook](https://github.com/Seongwoong-sk/Yolo_V1_TF2/blob/main/Yolo_v1_cat.ipynb) where there are links. 
 
 -----
 ```
