@@ -12,21 +12,27 @@ YOLO version1 implementation using TensorFlow 2.0 (feat. Cat Detection)
 
 #### 1️⃣ I completed this project last year (2021). This Writing is to reorganize What I had done.
 
-#### 2️⃣ Moreover, 🎇 means I could not be able to upload here as its' file size is toooo big but you would be able to download them in [jupyter notebook](https://github.com/Seongwoong-sk/Amenity_Detection_Project/blob/main/notebooks/Amenity_Detection.ipynb) where there are links. 
+#### 2️⃣ Moreover, 🎇 means I could not be able to upload here as its' file size is toooo big but you would be able to download them in [jupyter notebook](https://github.com/Seongwoong-sk/Yolo_V1_TF2/blob/main/Yolo_v1_cat.ipynb) where there are links. 
 
 -----
 ```
 Directory
-├── 🎇 Original_open_image_dataset (from Downloading)
+├── 🎇 saved_model
+│   ├── checkpoint
 │
-├── 🎇 filtered_train_images
-│   ├── aggregated
-│   ├── class_names
-│   ├── .....
+├── 🎇 tensorboard_log
+│   ├── train
+│        ├──  train_log_file (Used for Tensorboard)
+│   ├── validation
+│        ├──  eval_log_file (Used for Tensorboard)
 │
-├── 🎇 filtered_validation_images
-│   ├── aggregated
-│   ├── class_names
-│   ├── .....
+├── Yolo_v1_cat.ipynb
+│
+├── dataset.py
+├── train.py
+├── evaluate.py
+├── loss.py
+├── model.py
+├── utils.py
 
 ```
