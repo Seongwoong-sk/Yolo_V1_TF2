@@ -3,7 +3,7 @@
 YOLO version1 implementation using TensorFlow 2.0 (feat. Cat Detection)
 
 <p align="center">
-  <img width="500" src="https://seongwoong-sk.github.io/assets/img/yolov1/yolosystem.png" "Amenity Detection">
+  <img width="700" src="https://seongwoong-sk.github.io/assets/img/yolov1/yolosystem.png" "Amenity Detection">
 </p>
 
 -----
