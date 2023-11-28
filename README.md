@@ -8,7 +8,7 @@ YOLO version1 implementation using TensorFlow 2.0 (feat. Cat Detection)
 
 -----
 
-#### You Could Check what I wrote details about this project [HERE](https://velog.io/@dahara3/Cat-Detection-feat.-Yolo-v1-Implementation)
+#### You Could Check what I wrote details about this project [HERE](https://giddy-scooter-aaa.notion.site/Cat-Detection-with-YOLO-V1-Implementation-1e60ee53bf2d427a9ce29d9756f1703e)
 
 #### 1️⃣ I completed this project last year (2021). This Writing is to reorganize What I had done.
 
